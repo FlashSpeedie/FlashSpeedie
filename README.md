@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br><br>🤖 AI Resume Generator (Solo Project)!<br><br>I'm looking to collaborate on<br><br>🤝 Small open-source web dev and full-stack Python/JavaScript projects.<br><br>I'm looking for help with<br><br>🚀 Optimizing data structures and model performance for the AI analysis.<br><br>I'm currently learning<br><br>🐍 Advanced React features and new Python libraries.<br><br>Ask me about<br><br>💡 Full-stack development and starting projects from scratch.<br><br>Fun fact<br><br>🎧 I debug code faster with a high-energy playlist on repeat!
+I'm currently working on<br>🤖 AI Resume Generator (Solo Project)!<br><br>I'm looking to collaborate on<br>🤝 Small open-source web dev and full-stack JavaScript projects.<br><br>I'm looking for help with<br>🚀 Optimizing data structures and model performance for the AI analysis.<br><br>I'm currently learning<br>🐍 Advanced React features and new Python libraries.<br><br>Ask me about<br>💡 Full-stack development and starting projects from scratch.<br><br>Fun fact<br>🎧 I debug code faster with a high-energy playlist on repeat!
 
 
 ## 🌐 Socials:
